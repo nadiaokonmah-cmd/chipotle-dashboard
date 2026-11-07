@@ -1,0 +1,12 @@
+
+{
+    "chart_title": "Chipotle Bowl Ingredient Preferences",
+    "data_points": [
+        {"label": "Chicken", "value": 90},
+        {"label": "White Rice", "value": 85},
+        {"label": "Guacamole", "value": 78},
+        {"label": "Cheese", "value": 70},
+        {"label": "Corn Salsa", "value": 65},
+        {"label": "Black Beans", "value": 55}
+    ]
+}
